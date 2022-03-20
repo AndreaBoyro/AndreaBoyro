@@ -11,6 +11,7 @@
 
 <p dir="auto"><a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" style="max-width: 100%;" width="40" height="40"> </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" style="max-width: 100%;" width="40" height="40"> </a> &nbsp; &nbsp;
+ <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="max-width: 100%;" width="40" height="40"> </a> &nbsp; &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width: 100%;" width="40" height="40"> </a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="max-width: 100%;" width="40" height="40"> </a> &nbsp; &nbsp;
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" style="max-width: 100%;" width="40" height="40"> </a>
