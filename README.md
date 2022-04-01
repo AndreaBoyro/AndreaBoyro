@@ -2,7 +2,7 @@
 <hr>
 ✨ I ❤️ cats, having breakfast and dancing. 
 
-- 🌱 I’m currently learning Angular, Node
+- 🌱 I’m currently learning React
 - 📫 How to reach me: send me an e-mail: andreaboyano@gmail.com
 - 😄 Pronouns: she/her
 
